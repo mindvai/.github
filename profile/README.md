@@ -40,4 +40,4 @@ If you are interested in getting involved, please do not hesitate to reach out t
 So what are you waiting for? Join us on this exciting journey and let's work together to bring the power of AI to the world!
 
 
-[Github](https://github.com/maidvai) • [Discord](https://dsc.gg/mindvai)
+[Github](https://github.com/mindvai) • [Discord](https://dsc.gg/mindvai)
